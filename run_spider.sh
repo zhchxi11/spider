@@ -1,5 +1,5 @@
 #!/bin/sh
-source /home/disk5/dm/.bashrc
+source /home/disk5/dm/.bashrc # a new comment in spider
 cur_day=`date +%Y%m%d`
 year=`date +%Y`
 month=`date +%m`
