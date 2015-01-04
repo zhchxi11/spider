@@ -1,5 +1,6 @@
 #!/bin/sh
-source /home/disk5/dm/.bashrc
+
+source /home/disk5/dm/.bashrc #a new change in dev
 cur_day=`date +%Y%m%d`
 year=`date +%Y`
 month=`date +%m`
